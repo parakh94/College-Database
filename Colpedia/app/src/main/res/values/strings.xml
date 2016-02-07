@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Colpedia</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_academic">academic</string>
+    <string name="title_activity_security">security</string>
+    <string name="title_activity_stationary">stationary</string>
+    <string name="title_activity_fooding">fooding</string>
+    <string name="title_activity_ragging">ragging</string>
+</resources>
